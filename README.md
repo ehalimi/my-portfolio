@@ -1,7 +1,7 @@
 # Getting Started with Create React App Project Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
-It is my portfolio website that contains an about me section, my projects, contact me, and my resume. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is my portfolio website that contains an about me section, my projects, contact me, and my resume.
 
 ## Screenshot
 
@@ -9,7 +9,7 @@ It is my portfolio website that contains an about me section, my projects, conta
 
 ## Deployed Link
 
-https://dreadful-alien-23935.herokuapp.com/
+https://my-portfolio-83ikxutd7-ehalimi.vercel.app/
 
 ## Available Scripts
 
