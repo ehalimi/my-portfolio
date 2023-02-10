@@ -1,18 +1,18 @@
 import React from "react";
 import moneyTracker from '../../assets/images/MoneyTracker.png';
 import gaugeYourCoworker from '../../assets/images/GaugeYourCoworker.png';
-import nutritionalYeet from '../../assets/images/Nutritional-Yeet.png';
+import textEditor from '../../assets/images/text-editor.png';
 import bookSearch from '../../assets/images/BookSearch.png';
 
 function Projects() {
 
     const projects = [
         {
-            title: 'Nutritional-Yeet',
-            img: nutritionalYeet,
-            languages: ['HTML', 'CSS', 'JavaScript', 'Express', 'Node', 'React', 'MongoDB'],
-            github: "https://github.com/ehalimi/Nutritional-Yeet",
-            website: "https://young-taiga-34370.herokuapp.com/"
+            title: 'Text Editor',
+            img: textEditor,
+            languages: ['HTML', 'CSS', 'JavaScript', 'Express', 'Node', 'React', 'Webpack','Babel'],
+            github: "https://github.com/ehalimi/Text-Editor",
+            website: "https://desolate-river-49768.herokuapp.com/"
         },
         {
             title: 'Gauge Your Coworker',

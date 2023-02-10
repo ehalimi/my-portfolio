@@ -11,10 +11,9 @@ function About() {
             <div id="about">
             <img id="image" src={image} alt="Ema Halimi" />
             <p id="about-me">
-                I am a full time student at North American University majoring in Software 
-                Engineering and Networking, with a background in HTML, CSS, JavaScript, Express, Node, React, PHP, MySQL, MongoDB, and Git. 
-                I am currently attending the Rice University Coding Bootcamp and looking forward to 
-                working as a full-stack web developer in the near future. 
+            Highly motivated and detail-oriented Full Stack Web Developer with a strong background in Software Engineering and Networking. 
+            Committed to lifelong learning, bringing a unique blend of creativity and problem-solving skills to develop user-friendly applications. 
+            Recognized for my quick wit and attention to detail, can easily deliver complex projects.
             </p>
             </div>
             </div>

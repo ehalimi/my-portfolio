@@ -4,7 +4,7 @@ function Resume() {
     return(
         <div className="resume">
             <h1>My Resume</h1>
-            <a href="https://drive.google.com/file/d/19shvp2L_FyC1kushHipBMCWeVCaKMGPz/view?usp=share_link" id="resume-link">View My Resume Here</a>
+            <a href="https://docs.google.com/document/d/1iwZqhpdUheB69gacNqNmVLB7lwttCA9H1uldxcSY-h0/edit?usp=sharing" id="resume-link">View My Resume Here</a>
         </div>
     );
 }
