@@ -89,6 +89,13 @@ body {
   float: right;
 }
 
+#Portfolio {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: var(--tertiary);
+  font-size: 45px;
+}
+
 #gallery {
   display: flex;
   flex-wrap: wrap;
@@ -100,6 +107,24 @@ body {
 #gallery img {
   height: 100px;
   object-fit: fill;
+}
+
+#gallery p {
+  font-size: 13px;
+  display: flex;
+  width: 400px;
+  color: var(--tertiary);
+  margin-left: 15px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 250px;
+  background-size: cover;
+  margin: 10px;
+  border-radius: 7px;
 }
 
 h1 {
@@ -115,13 +140,6 @@ h2 {
   font-size: 45px;
   color: var(--tertiary);
   margin: auto;
-}
-
-#Portfolio {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
-  color: var(--tertiary);
-  font-size: 45px;
 }
 
 #header {
@@ -158,6 +176,12 @@ button[disabled] {
 
 contact-form {
   width: 60%;
+}
+
+#contact p{
+  color: var(--tertiary);
+  font-size: 20px;
+  margin-top: 50px;
 }
 
 label {
@@ -249,26 +273,6 @@ textarea {
 .my-2 {
   margin-top: var(--spacing-two);
   margin-bottom: var(--spacing-two);
-}
-
-.card {
-  display: flex;
-  flex-direction: column;
-  width: 350px;
-  height: 250px;
-  background-size: cover;
-  margin: 10px;
-  border-radius: 7px;
-}
-
-.card a {
-  color: var(--tertiary);
-  margin: 100px;
-  width: 30%;
-  font-size: 20px;
-  font-weight: bold;
-  border-radius: 10px;
-  padding: 2px;
 }
 
 .img-thumbnail {

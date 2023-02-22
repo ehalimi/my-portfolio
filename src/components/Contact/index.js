@@ -59,6 +59,10 @@ function Contact() {
                 )}
                 <button type="submit">Submit</button>
             </form>
+
+            <div>
+                <p>Or contact me via email at emahalimi19@gmail.com</p>
+            </div>
         </section>
     );
 }
